@@ -6,7 +6,7 @@ Eni Challenge repo links:
 2. Video Presentation: https://youtu.be/Flt-sQk1P18
 
 
-*Hello everyone, we are team4. We decided to partecipate to this challenge
+*Hello everyone, we are NoAnger. We decided to partecipate to this challenge
 proposed by Eni because
 all of us we truly believe that we need to do something to build a better world for
 our future.
