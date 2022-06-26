@@ -29,7 +29,7 @@ complete and precise vision of his/her real impact.
 
 Once we have this data, we are going to share with the user our solution to make
 his/her impact get lower and lower.
-(MOSTRARE LA NUVOLA)
+
 Based on the result of the impact, a dark evil cloud is gonna come alive upon the
 head of our user avatar(?!), but no worries! We are now going to give you the
 solution to let it go away.
