@@ -31,7 +31,7 @@ Once we have this data, we are going to share with the user our solution to make
 his/her impact get lower and lower.
 
 Based on the result of the impact, a dark evil cloud is gonna come alive upon the
-head of our user avatar(?!), but no worries! We are now going to give you the
+head of our user avatar, but no worries! We are now going to give you the
 solution to let it go away.
 The App is gonna suggest personalized actions, specifically builded around the
 needs of the user, to let the dark cloud go away like ranting some electric vehicles,
